@@ -1,0 +1,1 @@
+一个简单的newApplication，适配手机和平板
